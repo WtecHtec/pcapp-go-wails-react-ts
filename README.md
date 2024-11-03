@@ -24,3 +24,6 @@ runtime.EventsEmit(WailApp.ctx, "login:code", uuid)
   })
 
 ```
+
+## web、微信小程序端
+[源码](https://github.com/WtecHtec/app-auto-wechat)
